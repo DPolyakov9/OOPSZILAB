@@ -1,0 +1,11 @@
+C:/Users/danek/source/repos/Lab1/build/Release_x64/CMakeFiles/edit_cache.dir
+C:/Users/danek/source/repos/Lab1/build/Release_x64/CMakeFiles/rebuild_cache.dir
+C:/Users/danek/source/repos/Lab1/build/Release_x64/Lab1/CMakeFiles/Task1.dir
+C:/Users/danek/source/repos/Lab1/build/Release_x64/Lab1/CMakeFiles/Task2.dir
+C:/Users/danek/source/repos/Lab1/build/Release_x64/Lab1/CMakeFiles/rebuild_cache.dir
+C:/Users/danek/source/repos/Lab1/build/Release_x64/Lab1/CMakeFiles/Task3.dir
+C:/Users/danek/source/repos/Lab1/build/Release_x64/Lab1/CMakeFiles/edit_cache.dir
+C:/Users/danek/source/repos/Lab1/build/Release_x64/Lab1/CMakeFiles/Task4.dir
+C:/Users/danek/source/repos/Lab1/build/Release_x64/Lab1/CMakeFiles/Task5.dir
+C:/Users/danek/source/repos/Lab1/build/Release_x64/Lab1/CMakeFiles/Task6.dir
+C:/Users/danek/source/repos/Lab1/build/Release_x64/Lab1/CMakeFiles/Task7.dir

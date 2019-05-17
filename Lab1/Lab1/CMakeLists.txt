@@ -1,0 +1,7 @@
+add_executable(Task1  "src/Task1.c" )
+add_executable(Task2  "src/Task2.c" )
+add_executable(Task3  "src/Task3.c" )
+add_executable(Task4  "src/Task4.c" )
+add_executable(Task5  "src/Task5_main.c" "src/Task5_func.c"  )
+add_executable(Task6  "src/Task6_main.c" "src/Task6_func.c"  )
+add_executable(Task7  "src/func.h" "src/Task7_main.c" "src/Task7_func.c"  )

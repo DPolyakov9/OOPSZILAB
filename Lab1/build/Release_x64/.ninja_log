@@ -1,0 +1,13 @@
+# ninja log v5
+1	262	0	Lab1/CMakeFiles/Task1.dir/src/Task1.c.obj	6ed43d30db5b2ae1
+263	1022	0	Lab1/Task1.exe	3d06e6277399d4e1
+5	162	0	Lab1/CMakeFiles/Task5.dir/src/Task5_func.c.obj	447750aabe668e96
+0	183	0	Lab1/CMakeFiles/Task5.dir/src/Task5_main.c.obj	a0694579ade3b78d
+183	874	0	Lab1/Task5.exe	5a7e0837dc947a53
+5	134	0	Lab1/CMakeFiles/Task6.dir/src/Task6_func.c.obj	e42b2e0ef970e6cb
+1	184	0	Lab1/CMakeFiles/Task6.dir/src/Task6_main.c.obj	b8648b6c9fb3619a
+185	1014	0	Lab1/Task6.exe	c1e8cdd7eddec8ae
+5	752	0	build.ninja	277a8761082ec739
+4	185	0	Lab1/CMakeFiles/Task7.dir/src/Task7_main.c.obj	512bb39521bcdc05
+1	186	0	Lab1/CMakeFiles/Task7.dir/src/Task7_func.c.obj	25aab52d299e271e
+187	1238	0	Lab1/Task7.exe	3c7885aa18035c12

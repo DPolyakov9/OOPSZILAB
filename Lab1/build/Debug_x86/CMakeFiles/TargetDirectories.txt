@@ -1,0 +1,5 @@
+C:/Users/danek/source/repos/Lab1/build/Debug_x86/CMakeFiles/edit_cache.dir
+C:/Users/danek/source/repos/Lab1/build/Debug_x86/CMakeFiles/rebuild_cache.dir
+C:/Users/danek/source/repos/Lab1/build/Debug_x86/Lab1/CMakeFiles/Lab1.dir
+C:/Users/danek/source/repos/Lab1/build/Debug_x86/Lab1/CMakeFiles/edit_cache.dir
+C:/Users/danek/source/repos/Lab1/build/Debug_x86/Lab1/CMakeFiles/rebuild_cache.dir

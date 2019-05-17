@@ -1,0 +1,5 @@
+C:/Users/danek/source/repos/OOPSZILAB/Lab2/build/Debug_x86/CMakeFiles/edit_cache.dir
+C:/Users/danek/source/repos/OOPSZILAB/Lab2/build/Debug_x86/CMakeFiles/rebuild_cache.dir
+C:/Users/danek/source/repos/OOPSZILAB/Lab2/build/Debug_x86/Lab2/CMakeFiles/Lab.dir
+C:/Users/danek/source/repos/OOPSZILAB/Lab2/build/Debug_x86/Lab2/CMakeFiles/edit_cache.dir
+C:/Users/danek/source/repos/OOPSZILAB/Lab2/build/Debug_x86/Lab2/CMakeFiles/rebuild_cache.dir

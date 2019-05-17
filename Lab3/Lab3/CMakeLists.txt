@@ -1,0 +1,3 @@
+add_executable(For "src/for/Header.h" "src/for/Task1_for.c" "src/for/Task2_for.c" "src/for/Task3_for.c" "src/for/Task4_for.c" "src/for/Task5_for.c" "src/for/Task6_for.c")
+add_executable(While "src/while/Header.h" "src/while/Task1_while.c" "src/while/Task2_while.c" "src/while/Task3_while.c" "src/while/Task4_while.c" "src/while/Task5_while.c" "src/while/Task6_while.c")
+add_executable(DoWhile "src/dowhile/Header.h" "src/dowhile/Task1_dowhile.c" "src/dowhile/Task2_dowhile.c" "src/dowhile/Task3_dowhile.c" "src/dowhile/Task4_dowhile.c" "src/dowhile/Task5_dowhile.c" "src/dowhile/Task6_dowhile.c")

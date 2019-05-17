@@ -1,0 +1,7 @@
+C:/Users/danek/source/repos/Lab3/build/Release_x64/CMakeFiles/edit_cache.dir
+C:/Users/danek/source/repos/Lab3/build/Release_x64/CMakeFiles/rebuild_cache.dir
+C:/Users/danek/source/repos/Lab3/build/Release_x64/Lab3/CMakeFiles/edit_cache.dir
+C:/Users/danek/source/repos/Lab3/build/Release_x64/Lab3/CMakeFiles/For.dir
+C:/Users/danek/source/repos/Lab3/build/Release_x64/Lab3/CMakeFiles/While.dir
+C:/Users/danek/source/repos/Lab3/build/Release_x64/Lab3/CMakeFiles/DoWhile.dir
+C:/Users/danek/source/repos/Lab3/build/Release_x64/Lab3/CMakeFiles/rebuild_cache.dir

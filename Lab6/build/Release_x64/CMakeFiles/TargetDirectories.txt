@@ -1,0 +1,5 @@
+C:/Users/danek/source/repos/Lab6/build/Release_x64/CMakeFiles/edit_cache.dir
+C:/Users/danek/source/repos/Lab6/build/Release_x64/CMakeFiles/rebuild_cache.dir
+C:/Users/danek/source/repos/Lab6/build/Release_x64/Lab6/CMakeFiles/Lab.dir
+C:/Users/danek/source/repos/Lab6/build/Release_x64/Lab6/CMakeFiles/edit_cache.dir
+C:/Users/danek/source/repos/Lab6/build/Release_x64/Lab6/CMakeFiles/rebuild_cache.dir
